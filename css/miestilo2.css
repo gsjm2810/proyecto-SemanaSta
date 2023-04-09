@@ -152,6 +152,7 @@ section{
     border:2px solid rgb(49, 2, 74); 
     box-shadow: 4px 5px 12px rgba(49, 2, 74,0.8); 
     margin-top:25px;
+	background-color: ivory /*rgb(253, 245, 217); */
 }
 
 section header{
